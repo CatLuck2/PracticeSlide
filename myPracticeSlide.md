@@ -4,8 +4,12 @@ header: 'header text'
 footer: 'footer text'
 theme: "black"
 transition: "none"
+paginate: "true"
+<!-- paginate: true -->
+
 ---
 
+<!-- _backgroundColor: red -->
 # スライドサンプル
 
 ***@nekokichi_yos2***
