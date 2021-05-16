@@ -14,7 +14,8 @@ transition: "none"
 
 ## プロフィール
 
-![bg left 70%](icon.png)
+![left 70%](icon.png) 
+
 - CatLuck2
 - Swift,Java
 - 3 iOS apps Release, join AppDojoSalon 
