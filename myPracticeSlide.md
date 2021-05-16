@@ -21,8 +21,14 @@ transition: "none"
 
 --- 
 
-### 概要
+## 概要
 
 1. 今日のLTでわかること
 2. Swiftのコードをリファクタリング
 3. 終わりに
+
+--- 
+
+## 終わりに
+
+![bg center](backgroundImage.png)
