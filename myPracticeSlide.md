@@ -18,3 +18,11 @@ transition: "none"
 - CatLuck2
 - Swift,Java
 - 3 iOS apps Release, join AppDojoSalon 
+
+--- 
+
+### 概要
+
+1. 今日のLTでわかること
+2. Swiftのコードをリファクタリング
+3. 終わりに
