@@ -33,3 +33,5 @@ transition: "none"
 ## 終わりに
 
 ![bg center](backgroundImage.png)
+1. ありがとう
+2. ございました。
