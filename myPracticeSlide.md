@@ -1,7 +1,6 @@
 ---
 marp: true
-header: 'header text'
-footer: 'footer text'
+header: 'Swiftのリファクタリング'
 theme: "black"
 transition: "none"
 paginate: "true"
@@ -10,7 +9,7 @@ paginate: "true"
 ---
 
 <!-- _backgroundColor: red -->
-# スライドサンプル
+# Swiftのリファクタリング
 
 ***@nekokichi_yos2***
 
