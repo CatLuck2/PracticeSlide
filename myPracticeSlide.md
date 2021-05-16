@@ -18,7 +18,7 @@ paginate: "true"
 
 ## プロフィール
 
-![left 70%](icon.png) 
+![left w:1200 h:200](icon.png) 
 
 - CatLuck2
 - Swift,Java
